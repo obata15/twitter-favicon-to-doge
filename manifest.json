@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Twitter favicon to Doge (beta)",
+  "version": "0.0.1",
+
+  "description": "beta version",
+
+  "content_scripts": [
+    {
+      "matches" : ["https://twitter.com/*"],
+      "js" : ["content-script.js"]
+    }
+  ]
+}
