@@ -1,7 +1,3 @@
-# Twitter favicon to Doge (beta)
+# This repository has been archived
 
-It is Chrome extension
-
-## How to install
-
-https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked
+Twitter bird is back.
